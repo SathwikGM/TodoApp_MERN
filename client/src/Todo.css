@@ -1,0 +1,10 @@
+.Todo{
+  background-color: #FF6666;
+  width: 800px;
+  height: 800px;
+  
+}
+
+.Todo li{
+  list-style: none;
+}
